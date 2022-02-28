@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The profession of the true Protestant religion: or, The protestation of the Kirk of Scotland, with a confession of faith, and solemne covenant, or oath, of that kingdome; as it hath been divers times protested and enacted by King Iames, and confirmed by an act in the second Parliament of our dread soveraign King Charles, the 11. of Iune, 1640. Wherein is specified the particular heads of popish doctrine, and superstition, of the church of Rome, contrary to the sacred scriptures, and discipline of the reformed churches: with an act of confirmation of the said covenant. Also an act against liesing makers, (or evill counsellors) of whatsoever quality, office, place or dignity. Printed at Edingborough by E. T. 1641.</title>
+            <author>Church of Scotland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91059</idno>
+            <idno type="STC">Wing P3645</idno>
+            <idno type="STC">Thomason E73_7</idno>
+            <idno type="STC">ESTC R8688</idno>
+            <idno type="EEBO-CITATION">99873369</idno>
+            <idno type="PROQUEST">99873369</idno>
+            <idno type="VID">155477</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91059)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155477)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 13:E73[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The profession of the true Protestant religion: or, The protestation of the Kirk of Scotland, with a confession of faith, and solemne covenant, or oath, of that kingdome; as it hath been divers times protested and enacted by King Iames, and confirmed by an act in the second Parliament of our dread soveraign King Charles, the 11. of Iune, 1640. Wherein is specified the particular heads of popish doctrine, and superstition, of the church of Rome, contrary to the sacred scriptures, and discipline of the reformed churches: with an act of confirmation of the said covenant. Also an act against liesing makers, (or evill counsellors) of whatsoever quality, office, place or dignity. Printed at Edingborough by E. T. 1641.</title>
+                  <author>Church of Scotland.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Edingborough by E.T. 1641. And now reprinted at London by Tho: Fawcet, for Lawrence Chapman,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octo: 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solemn League and Covenant (1643). --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155477:1" rendition="simple:additions"/>
+            <p>The Profeſsion OF THE TRUE PROTESTANT RELIGION: OR The Proteſtation of the Kirk of <hi>Scotland,</hi> with a Confeſſion of the Faith, and ſolemne Cove<g ref="char:EOLhyphen"/>nant, or Oath, of that Kingdome; as it hath been divers times Proteſted, and Enacted by King <hi>Iames,</hi> and confirmed by an Act in the ſecond PARLIAMENT of our Dread Soveraign King CHARLES, the 11. of <hi>Iune,</hi> 1640.</p>
+            <p>WHEREIN Is ſpecified the particular Heads of Popiſh Do<g ref="char:EOLunhyphen"/>ctrine, and Superſtition, of the CHURCH of <hi>Rome,</hi> contrary to the ſacred Scriptures, and Diſcipline of the Reformed CHURCHES: with an Act of Confirmation of the ſaid COVENANT.</p>
+            <p>Alſo an Act againſt Lieſing m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kers (or evill Counſellors) of whatſoever Quality, Office, Place, or Dignity.</p>
+            <p>Printed at <hi>Edingborough</hi> by <hi>E. T.</hi> 1641.</p>
+            <p>And now reprinted at London by THO: FAWCET, for <hi>Lawrence Chapman,</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:155477:2"/>
+            <head>An Act of the Generall Aſſembly in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> the ſecond Parliament of King CHARLES; Ordaining by Eccleſiaſticall authority, the ſubſcrip<g ref="char:EOLhyphen"/>tion of the Confeſſion of Faith and <hi>Covenant.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Generall Aſſembly conſidering the great happineſſe which may flow from a full and perfect Union of this Kirk and Kingdome, by joyning of all in one and the ſame Covenant with GOD, with the Kings Majeſty, and amongſt our ſelves, having by our great Oath decla<g ref="char:EOLhyphen"/>red the uprightneſſe and loyaltie of our intentions in all our proceedings, and having withall ſupplicated his Majeſties high Commiſſioner, and the Lords of his Majeſties honourable Privie Coun<g ref="char:EOLhyphen"/>cell, to injoyne by Act of Councell, all the Lieges in time comming to ſubſcribe the Confeſſion of faith and Covenant, which as a teſtimony of our fidelity to God, and loyalty to our King we have ſubſcribed; And ſeeing his Majeſtie, high Commiſſioner, and the Lords of his Majeſties honourable Privie Councell, have granted the deſire of our Supplication, ordaining by Civill authority, all his Majeſties Lieges in time comming to ſubſcribe the foreſaid Covenant, that our Union may be the more full and perfect, We by our act and conſtitution Eccleſiaſticall, doe approve the foreſaid Covenant in all the Heads and Clauſes thereof and ordaines of new, under all Eccleſiaſticall cenſure, that all the Maſters of Univer<g ref="char:EOLhyphen"/>ſities, Colledges, and Schooles, all Schollers at the paſſing of their de<g ref="char:EOLhyphen"/>gr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, all perſons ſuſpect of Papiſtry or any other errour; and finally all the members of this Kirk and Kingdome, ſubſcribe the ſame with theſe words prefixed to their ſubſcription: <hi>The Article of this Covenant, which was at the firſt ſubſcription referred to the determination of the generall Aſſembly, being determined. And thereby the five Articles of</hi> Perth, <hi>the Government of the Kirk by Biſhops, the ci<g ref="char:EOLhyphen"/>vill places and power of Kirk-men, upon the reaſons and grounds
+<pb n="3" facs="tcp:155477:2"/> contained in the Acts of the Generall Aſſembly, declared to be un<g ref="char:EOLhyphen"/>lawfull within this Kirk wee ſubſcribe according to the determi<g ref="char:EOLhyphen"/>nation aforeſaid.</hi> And ordaines the Covenant with this Declaration, to be inſert in the Regiſters of the Aſſemblies of this Kirk Generall, Provinciall, and Presbyteriall, <hi>ad perpetuam rei memoriam;</hi> and in all humility ſupplicates his Majeſties high Commiſſioner, and the hono<g ref="char:EOLhyphen"/>rable Eſtates of Parliament, by their Authority, to ratifie and injoyne the ſame, under all Civill paines, which will tend to the glory of God, preſervation of Religion, the Kings Majeſties honour, and perfect Peace of this Kirk and Kingdome.</p>
+            <div type="part">
+               <head>The Confeſſion of Faith ſubſcribed at first by the Kings Majeſty and his Houſhold, in the yeare of God, <hi>1580.</hi> Thereafter by perſons of all rankes in the yeare, <hi>1581,</hi> by Ordinance of the Lords of the ſecret Councell, and Acts of the Generall Aſſembly. Subſcribed againe by all ſorts of Perſons in the yeare <hi>1590.</hi> By a new Ordinance of Councell, at the de<g ref="char:EOLhyphen"/>ſire of the Generall Aſſembly; with a generall Band for maintenance of the true Religion, and the Kings Perſon. And ſubſcribed in the yeare <hi>1638.</hi> By Vs, Noblemen, Barons, Gentlemen, Burgeſſes, Miniſters, and Commons, then under ſubſcribing: Together with our Reſolution and Promiſes for the cauſes after ſpecified, to maintaine the ſaid true Religion, and the Kings Majeſty, according to the Confeſſion aforeſaid, and Acts of Parliament. And now upon the Supplication of the Gene<g ref="char:EOLhyphen"/>rall Aſſembly to his Majeſties high Commiſſioner, and the Lords of his Majeſties honourable Privie Councell, ſubſcribed againe in the yeare <hi>1639.</hi> by Ordinance of Councell, and Act of the Generall Aſſembly.</head>
+               <p>
+                  <seg rend="decorInit">W</seg>Ee all, and every one of Us under-written, Proteſt, that after long and due Examination of our own Conſciences, in matters of true and falſe Religion, Wee are now throughly reſolved of the truth, by the word and Spirit of God; And therefore we beleeve with our hearts confeſſe with our mouths, ſubſcribe with our Hands, and conſtantly affirme be<g ref="char:EOLhyphen"/>fore God, and the whole World, that this is the true Chriſtian Faith and Religion, pleaſing God, and bringing Salvation to man, which now is by the mercy of God revealed to the world, by the preaching of the bleſſed Evangel, and received, believed, and defended by many and ſun<g ref="char:EOLhyphen"/>dry notable Kirks and Realmes, but chiefly by the <hi>Kirk of Scotland, the Kings Majeſty, and the three Eſtates of this Realme,</hi> as Gods Eternall Truth, and only ground of our Salvation, as more particularly
+<pb n="3" facs="tcp:155477:3"/> is expreſſed in the Confeſſion of our Faith ſtabliſhed, and publickly con<g ref="char:EOLhyphen"/>firmed by ſundry Acts of Parliaments, and now of a long time hath bin openly profeſſed by the Kings Majeſty and whoſe body of this Realm both in Bu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Land. To the which Confeſſion and forme of Reli<g ref="char:EOLhyphen"/>gion we willingly agree in our conſciences in all points, as unto Gods undoubted Truth and Verity, grounded onely upon his written Word. And therefore, we abhorre and deteſt all contrary Religion, and Do<g ref="char:EOLhyphen"/>ctrine: But chiefly, all kind of Papiſtrie, in generall and particular heads, even as they are now damned and confuted by the <hi>Word of God, and Kirk of Scotland:</hi> But in ſpeciall, we deteſt and refuſe the uſurped authority of that Roman Antichriſt upon the Scriptures of God, upon the Kirk, the civill Magiſtrate, and Conſciences of men, all his tyran<g ref="char:EOLhyphen"/>nous lawes made upon indifferent things againſt our Chriſtian liberty: His erroneous Doctrine againſt the ſufficiencie of the written Word, the perfection of the Law, the office of Chriſt, and his bleſſed Evange<g ref="char:EOLhyphen"/>liſts. His corrupted Doctrine concerning originall ſinne, our naturall inability and rebellion to Gods Law, our Juſtification by faith onely, our imperfect Sanctification and obedience to the Law, the nature, number and uſe of the Holy Sacraments: His five baſtard Sacraments, with all his Rites, Ceremonies, and falſe Doctrine, added to the mini<g ref="char:EOLhyphen"/>ſtration of the true Sacrament without the word of God<g ref="char:punc">▪</g> His cruell Judgement againſt Infants, departing without the Sacrament: His ab<g ref="char:EOLhyphen"/>ſolute neceſſity of Baptiſme: His blaſphemous opinion of Tranſubſtan<g ref="char:EOLhyphen"/>tiation, or reall preſence of Chriſts Body in the Elements, and recei<g ref="char:EOLhyphen"/>ving of the ſame by the wicked, or bodies of men: His diſpenſations with ſolemne Oathes, Perjuries, and degrees of Marriage, forbidden in the Word: His cruelty againſt the innocent divorced: His divelliſh Maſſe: His blaſphemous Prieſthood: His profane ſacrifice for the ſins of the dead and the quick: His Canonization of men, calling upon An<g ref="char:EOLhyphen"/>gels or Saints departed, worſhipping of Imagerie, Relicts and Croſſes, dedicating of Kirks, Altars, Dayes, Vowes to creatures; His Purgato<g ref="char:EOLhyphen"/>rie, Prayers for the dead, praying or ſpeaking in a ſtrange language, with his Proceſſions, blaſphemous Letany, and multitude of Advo<g ref="char:EOLhyphen"/>cates or Mediators: His manifold Orders, Auricular Confeſſions: His deſperate, and uncertaine Repentance; His generall and doubtſome Faith; His ſatisfactions of men for their ſinnes: His Juſtification by works, <hi>opus operatum,</hi> works of Supererogation, Merits, Pardons, Pere<g ref="char:EOLhyphen"/>grinations, and Stations: His holy-water baptizing of Bells, conjuring of Spirits croſſing faning anointing, conjuring hallowing of GODS good creatures with the ſuperſtitious opinion joyned therewith; His worldly Monarchy, and wicked Hierarchy: His three ſolemne vowes,
+<pb n="4" facs="tcp:155477:3"/> with all his ſhavelings of ſundry ſorts: His erroneous and bloudy de<g ref="char:EOLhyphen"/>crees made at Trent, with all the ſubſcribers and approvers of that cruell and bloudy Band, coniured againſt the Kirk of GOD: And finally, we deteſt all his vain Allegories, Rites, Signes and Traditions, brought in the Kirk, without<g ref="char:punc">▪</g> or againſt the word of GOD, and Doctrine of this true reformed Kirk: To the which we joyne our ſelves willing<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y in Doctrine, Faith, Religion, Diſcipline, and uſe of the holy Sacraments, as lively members of the ſame in Chriſt our Head: Promiſing and ſwearing by the <hi>Great Name of the Lord our GOD,</hi> that we ſhall continue in the Obedience of the Doctrine and Diſcipline of this Kirk, and ſhall defend the ſame according to our vocation and power all the dayes of our lives, under the paines contained in the Law, and danger both of Body and Soule, in the day of GODS fearfull Judg<g ref="char:EOLhyphen"/>ment: And ſeeing that many are ſtirred up by Sathan, and that Roman Antichriſt, to promiſe, ſweare, ſubſcribe, and for a time uſe the holy Sacraments in the Kirk deceitfully, againſt their owne conſciences, minding thereby, firſt under the eternall cloak of Religion to corrupt and ſubvert ſecretly GODS true Religion within the Kirk, and af<g ref="char:EOLhyphen"/>terward, when time may ſerve, to become open enemies and perſecu<g ref="char:EOLhyphen"/>tors of the ſame under vain hope of the Popes diſpenſation, deviſed a<g ref="char:EOLhyphen"/>gainſt the Word of GOD, to his greater confuſion, and their double condemnation in the day of the LORD JESUS: Wee therefore, willing to take away all ſuſpition of hypocriſie, and of ſuch double dea<g ref="char:EOLhyphen"/>ling with GOD and his Kirk, Proteſt, and call <hi>The Searcher of all hearts</hi> for witneſſe, that our minds and hearts doe fully agree with this our <hi>Confeſſion, Promiſe, Oath,</hi> and <hi>Subſcription,</hi> ſo that We are not moved for any worldly reſpect, but are perſwaded only in our conſciences, through the knowledge and love of GODS true Reli<g ref="char:EOLhyphen"/>gion, printed in our hearts by the holy Spirit, as wee ſhall anſwer to him in the day, when the ſecrets of all hearts ſhall be diſcloſed: And becauſe we perceive, that the quietneſſe and ſtability of our Religion and Kirk, doth depend upon the ſafety and good behaviour of the Kings Majeſty, as upon a comfortable Inſtrument of Gods mercy, granted to this Countrey, for the maintaining of his Kirk, and miniſtration of Ju<g ref="char:EOLhyphen"/>ſtice amongſt us, we proteſt and promiſe with our hearts under the ſame Oath, Handwrit, and paines that we ſhall defend his Perſon and Authority, with our goods, bodies and lives, in the defence of Chriſt his Evangell, Liberties of our Countrey, miniſtration of Juſtice and puniſhm<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t of Iniquity againſt all enemies within this Realme, or with<g ref="char:EOLhyphen"/>out, as we deſire our G d to be a ſtrong and mercifull defender to us in the day of our death, and comming of our Lord JESUS CHRIST: To
+<pb n="6" facs="tcp:155477:4"/> whom with the Father, and the holy Spirit, be all Honour and Glory Eternall.</p>
+               <p>LIKE AS many Acts of Parliament are conceived for maintenance of Gods true and Chriſtian Religion, and the purity thereof in Doctrine and Sacraments of the true Church of God, the liberty and freedome thereof, in her Nationall and Synodall aſſemblies Presb<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>teries, Seſſions, Policy, Diſcipline, and Iuriſdiction thereof, as that purity of Religion, and liberty of the Church was u ed, profeſſed, exerciſed, preached, and confeſſed according to the Reformation of Religion in this Realme; It is declared and ordained, ſeeing that Gods true Religion, and his highneſſe Authority are ſo joyned as the hurt of the one is common to both, that none ſhall be reputed as loyall and faithfull ſubjects to our Soveraign Lord, or his authority, but be puniſhable as Rebellers and gain-ſtanders of the ſame, who ſhall not give their Confeſſion, and make their profeſſion of the ſaid true Religion, and that they who after defec<g ref="char:EOLhyphen"/>tion ſhall give the Confeſſion of their Faith of new, they ſhall promiſe to continue therein in time comming, to maintain our Soverain Lords Authority, and at the uttermoſt of their power to fortifie, aſſiſt, and main<g ref="char:EOLhyphen"/>tain the true Preachers and Profeſſors of Chriſts Evangel againſt what<g ref="char:EOLhyphen"/>ſoever Enemies and gain-ſtanders of the ſame: and namely, againſt all ſuch (of whatſoever Nation, eſtate, or degree they be of) that have ioy<g ref="char:EOLhyphen"/>ned, and bound themſelves, or have aſſiſted, or aſſiſt to ſet forward and execute the cruel decrees of the Councell of <hi>Trent,</hi> contrary to the true Preachers and Profeſſors of the Word of God, which is repeated word by word in the Articles of Pacification at <hi>Perth</hi> the 23 of February 1572. approved by Parliament the laſt of Aprill 1573. ratified in Parlia<g ref="char:EOLhyphen"/>ment 1587. and related, Act 123. <hi>Parl.</hi> 12. <hi>of K. Iames</hi> 6. with his additi<g ref="char:EOLhyphen"/>on, that they are bound to reſiſt all treaſonable uproares and hoſtilities raiſed againſt the true Religion, the Kings Maieſty &amp; the true Profeſſors.</p>
+               <p>Like as all Leidges are bound to maintain the Kings Maieſties Royall Perſon, and Authority, the Authority of Parliaments without the which neither any Lawes or lawfull Judicatories can be eſtabliſhed, Act 130 and 131. <hi>Parl.</hi> 8 K. <hi>Iames</hi> 6. and the ſubjects liberties, who ought one y to live and be governed by the Kings lawes, the common lawes of this Realm allanerly. <hi>Act</hi> 48. <hi>Parl.</hi> 3. <hi>K. Iames the first Act.</hi> 79 <hi>Parl.</hi> 6. <hi>K. James</hi> 4. <hi>repeated in the Act</hi> 131. <hi>Parl.</hi> 8 <hi>K. Iames</hi> 6. Which, if they be innovated or prejudged the Commiſſion anent the Union of two King<g ref="char:EOLhyphen"/>domes of <hi>Scotland</hi> and <hi>England,</hi> which is the ſole <hi>Act of the</hi> 17. <hi>Parl. of K. Iames</hi> 6. declares ſuch confuſion would enſue, as this Realm could be no more a free Monarchy, becauſe by the fundamentall lawes, ancient priviledges, Offices, and liberties of this Kingdom, not only the Princely
+<pb n="7" facs="tcp:155477:4"/> Authority of his Majeſties Royall deſcent hath been theſe many ages maintained, but alſo the peoples ſecurity of their Lands, livings, rights, Offices, liberties<g ref="char:punc">▪</g> and dignities preſerved. And therefore for the preſer<g ref="char:EOLhyphen"/>vation of the ſaid true Religion, Lawes and liberties of this Kingdome, it is ſtatute by the 8. <hi>Act Parl.</hi> 1. <hi>repeated in the</hi> 99 <hi>Act. Parl.</hi> 7. <hi>Ratified in the</hi> 23 <hi>Act Parl.</hi> 11. <hi>and</hi> 114. <hi>Act, Parl.</hi> 12. <hi>of K, James</hi> 6. <hi>and</hi> 4. <hi>Act of K. Charles,</hi> that all Kings and Princes at their Coronation and recep<g ref="char:EOLhyphen"/>tion of their Princely Authority, ſhall make their faithfull promiſe by their ſolemne Oath in the preſence of Eternall God, that, enduring the whole time of their lives, they ſhall ſerve the ſame eternall God to the uttermoſt of their power, according as he hath required in his moſt holy Word, contained in the Old and New Teſtament: And according to the ſame Word, ſhall maintaine the true Religion of Chriſt Jeſus, the preaching of his holy Word, the due and right miniſtration of the Sa<g ref="char:EOLhyphen"/>craments now received and preached within this Realme (according to the Confeſſion of Faith immediately preceding) and ſhall aboliſh and gain-ſtand all falſe Religion contrary to the ſame, and ſhall rule the peo<g ref="char:EOLhyphen"/>ple, committed to their charge, according to the will and command of GOD, revealed in his foreſaid Word, and according to the laudable Lawes and Conſtitutions received in this Realme, no wayes repugnant to the ſaid will of the eternall GOD; and ſhall procure, to the utter<g ref="char:EOLhyphen"/>moſt of their power, to the Kirk of GOD, and whole Chriſtian peo<g ref="char:EOLhyphen"/>ple, true and perfect peace in all time comming: and that they ſhall be carefull to root out of their Empire all Hereticks, and Enemies to the true worſhip of GOD, who ſhall be convicted by the true Kirk of GOD, of the foreſaid crimes, which was alſo obſerved by his Majeſty, at his Coronation at <hi>Edinburg,</hi> 1633. as may be ſeen in the Order of the Coronation.</p>
+               <p>And becauſe we cannot look for a bleſſing from God upon our procee<g ref="char:EOLhyphen"/>dings, except with our profeſſion and ſubſcription we joyne ſuch a life and converſation as beſeemeth Chriſtians who have renewed their Co<g ref="char:EOLhyphen"/>venant with God; We therefore faithfully promiſe, for our ſelves, our followers, and all others under us, both in publike in our particular fa<g ref="char:EOLhyphen"/>milies, and perſonall carriage, to endeavour to keep our ſelves within the bounds of Chriſtian liberty, and to be good examples to others of all Godlineſſe, Soberneſſe and Righteouſneſſe, and of every duty we owe to God and Man. And that this our Vnion and Conjunction may be obſerved without violation, We call the living GOD the Searcher of our Hearts, to witneſſe, who knoweth this to be our ſincere Deſire, and unfained Reſolution, as we ſhall anſwer to JESUS CHRIST, in the great Day, and under the paine of GODS everlaſting wrath,
+<pb n="8" facs="tcp:155477:5"/> and of infamy, and loſſe of all honour and reſpect in this World, Moſt humbly beſeeching the Lord, to ſtrengthen us by his holy Spirit for this end, and to bleſſe our deſires and proceedings with a happy ſucceſſe, that Religion and Righteouſneſſe may flouriſh in the Land, to the glory of GOD the honour of our King, and peace and comfort of us all. In witneſſe whereof we have ſubſcribed with our hands all the premiſſes.</p>
+            </div>
+            <div type="part">
+               <head>An act againſt Lieſing-makers of whatſoever qualitie, Office, Place, or dignity.</head>
+               <p>THe Eſtates of Parliament preſently conveened by his Majeſties ſpe<g ref="char:EOLhyphen"/>ciall Authority, Conſidering the Honour, Dignity and Authority of the ſupreame Court of Parliament, over the Councell and Seſſi<g ref="char:EOLhyphen"/>on and all other civill Judicatories of this Kingdome, which have their originall, their power and antiquity from the Kings Maieſty and the E<g ref="char:EOLhyphen"/>ſtates of Parliament is ſubordinate thereunto, and ought to be counta<g ref="char:EOLhyphen"/>ble and cenſurable by them, for their abuſing of their power to the pre<g ref="char:EOLhyphen"/>judice of the Countrey: For the weale whereof they were eſtabliſhed, according to the twelfth Act of the ſecond Parliament of King <hi>Iames</hi> 4. wherein the Kings Councell was ſworne in preſence of the three Eſtates, to give his Highneſſe a true and effauld Councell, in all matters, concern<g ref="char:EOLhyphen"/>ing his Majeſty and his Realm; And to be reſponſall and accuſable to the King and his Eſtates of their Counſell, Conſidering alſo that during his Majeſties abſence forth of this Kingdom it is moſt neceſſary for the pub<g ref="char:EOLhyphen"/>lick peace of this Kingdom and his Maieſties honour, that all miſ-infor<g ref="char:EOLhyphen"/>mers, raiſers, and entertainers of Jealouſies ſuſpitions, and diviſions be<g ref="char:EOLhyphen"/>twixt the King, this Kirk and Kingdome, ſhould be ſeverely puniſhed, and eſpecially all bad Counſellors, who inſtead of giving his Maieſty a true and effauld Counſell hath given or will give information and coun<g ref="char:EOLhyphen"/>ſell to the evident preiudice and ruine of the liberties of this Kirk and Kingdome, ſhould be exemplarly Judged and cenſured by the Kings Ma<g ref="char:EOLhyphen"/>jeſty and the Eſtates of Parliament. Therefore they renew and revive all Acts of Parliament made againſt Lieſing-Makers, raiſers and entertain<g ref="char:EOLhyphen"/>ers of Jealouſies contentions, and diviſions betwixt the Kings Maieſty and this Kirk and Kingdome. And declares, that no dignity, quality, place, or office whatſoever ſhall exeeme theſe or any perſon whatſoever from the cenſure of the ſaid Acts.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
